@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "tabs.sh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxson/tabs.sh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxson/tabs.sh/issues"
+  },
+  "homepage": "https://github.com/jxson/tabs.sh#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "istanbul": "^0.4.3",
+    "standard": "^6.0.8",
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "domready": "^1.0.8",
+    "global": "^4.3.0",
+    "mercury": "^14.1.0"
+  }
+}

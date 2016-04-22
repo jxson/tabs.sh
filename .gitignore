@@ -1,0 +1,4 @@
+chrome/tabs.js
+coverage
+node_modules
+npm-debug.log
